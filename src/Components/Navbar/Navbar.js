@@ -1,13 +1,16 @@
 import React, { useState } from 'react'
 
 const Navbar = () => {
-
-
-const hello = [hello, helloWorld]= useState;
-
   return (
-    <div>
+   <>
+   <nav className="navbar">
+    <div className="navbarcontainer">
+        
     </div>
+   </nav>
+   
+   
+   </>
   )
 }
 
